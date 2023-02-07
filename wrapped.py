@@ -3,8 +3,8 @@ from spotipy.oauth2 import SpotifyOAuth
 import pandas as pd
 import gspread
 #give client access to personal spotify account
-CID = 'ba3c87eebe064f4381dafe0752e5fda7'
-SECRET = 'f8e7afff673d4d5d97e292b1a93c61ec'
+CID = 'CID'
+SECRET = 'SECRET'
 SCOPE = "user-top-read"
 URI='http://127.0.0.1:9090'
 
